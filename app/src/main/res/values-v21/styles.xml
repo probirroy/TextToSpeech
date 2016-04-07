@@ -1,0 +1,16 @@
+<resources>>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="CustomTextView" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:background">#1E1921</item>
+        <item name="android:textColor">#A85E4F</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">93sp</item>
+    </style>
+</resources>
